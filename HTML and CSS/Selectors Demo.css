@@ -1,0 +1,43 @@
+/* element */
+h2{
+    color: red;
+}
+
+
+/* class */
+.heading1{
+    color:yellow;
+}
+
+
+/* ID */
+#heading3{
+    color: aqua;
+}
+
+/* Star */
+*{
+    border: 1px solid lightgray; 
+}
+
+/* Decendant */
+li a{
+    color: red;
+}
+
+/* Adjacent */
+h2 + ul{
+    border: 3px solid red;
+}
+
+
+/* Attribute */
+a[href ="http://www.google.com"]{
+    color:purple;
+}
+
+/* nth of type */
+li:nth-of-type(even){
+    background: yellow;
+}
+
