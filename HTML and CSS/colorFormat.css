@@ -1,0 +1,51 @@
+h1{
+    color: #FF4354;
+    font-size: 100px;
+    background: yellow;
+    border: 2px dashed red;
+}
+h4{
+    color: aqua;
+    font-size: 60px;
+}
+li{
+    color: #435643 ; 
+    font-size: 56px;
+}
+h2{
+    color: rgb(100, 12, 22);
+    font-size: 30px;
+}
+h3{
+    color: rgba(123, 22,34,.4);
+    font-size: 30px;
+}
+h5{
+    color: #FF0000;
+    font-size: 30px;
+    text-decoration: line-through;
+}
+h6{
+    color: green;
+    font-size: 30px;
+}
+
+body{
+    /* background: url(); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* ID Selector */
+
+#heading{
+    color: bisque;
+    font-size: 30px;
+}
+
+/* Class Selector */
+/* 
+.class_name{
+
+} */
