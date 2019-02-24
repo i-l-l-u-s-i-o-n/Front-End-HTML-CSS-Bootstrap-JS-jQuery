@@ -1,0 +1,27 @@
+body{
+    background: url("https://wonderfulengineering.com/wp-content/uploads/2014/09/white-wallpapers-3.jpg");
+    background-repeat: repeat;
+    background-size: contain;
+}
+
+img{
+    width: 30%;
+    float: left;
+
+    /* we actually reqire 6 margins for 3 photos so remaing %= 10% as 3 img width contain 90% */
+    /* so remaining width=10/6=1.66% */
+    margin:1.66%;
+}
+
+p{
+    font-family: Raleway;
+    margin-left: 1.66%;
+    font-size: 23px;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    border-bottom: 2px solid lightgray;
+    width: 30%;
+
+    
+}
